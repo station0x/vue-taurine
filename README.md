@@ -1,4 +1,4 @@
-# Taurine - Tauri + Node.js stater - Electron alternative
+# Taurine - Vue + Tauri + Node.js stater - Electron alternative
 
 [Tauri](https://tauri.app/) is a framework for building tiny, blazing fast binaries for all major desktop platforms. With Node.js which you are familiar it's great alternative for [Electron](https://www.electronjs.org/).
 
